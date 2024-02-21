@@ -28,7 +28,7 @@ const questions = [
        type: "checkbox",
        name: "license",
        message: "Select a license if any for your project.",
-       choices: ["MIT", "GPL", "LGPL", "Apache License 2.0", "MPL 2.0", "BSD License", "Unlicense"] 
+       choices: ["MIT", "GPLv3", "LGPLv3", "Apache_2.0", "MPL_2.0", "BSD_3--Clause", "none"] 
     },
     {
         type: "input",
