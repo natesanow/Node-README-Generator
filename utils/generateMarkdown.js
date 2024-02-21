@@ -39,7 +39,7 @@ function renderLicenseLink(license) {
 // Function that returns the license section of README
 
 function renderLicenseSection(license) {
-    if (license) {
+    if (!license) {
         return ``;
     } else {
         return `This project is covered under the ${license} license. To learn more about what this means, click the license button at the top.`
