@@ -15,7 +15,7 @@ In this project I created a Readme generator that quickly creates a professional
 
 ## Screencast Link
 
-https://drive.google.com/file/d/1QEst4PWhdQuFa1luLwirKifrLBdMo0YQ/view
+https://drive.google.com/file/d/1bqDOvP1Gv05z5CyZlVkxi8MIx7M6qh3Z/view
 
 ## Github link
 
