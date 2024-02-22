@@ -15,6 +15,12 @@ In this project I created a Readme generator that quickly creates a professional
 
 ## Screencast Link
 
+
+
+https://github.com/natesanow/Node-README-Generator/assets/152323081/ec48e764-eb99-4994-93d0-1cc5c8441dbd
+
+
+
 https://drive.google.com/file/d/1bqDOvP1Gv05z5CyZlVkxi8MIx7M6qh3Z/view
 
 ## Github link
