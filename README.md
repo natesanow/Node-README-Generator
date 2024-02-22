@@ -13,8 +13,9 @@ In this project I created a Readme generator that quickly creates a professional
 * Readme has been generated and added to utils folder.
 
 
-## Screencast
+## Screencast Link
 
+https://drive.google.com/file/d/1QEst4PWhdQuFa1luLwirKifrLBdMo0YQ/view
 
 ## Github link
 
