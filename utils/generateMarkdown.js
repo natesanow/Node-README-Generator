@@ -3,7 +3,7 @@ const fs = require('fs');
 // Function that returns a license badge based on which license is passed in
 
 function renderLicenseBadge(license) {
-    if (license) {
+    if (!license) {
         return ``;
     } else {
         return `[![${license} license](https://img.shields.io/badge/license-${license}-blue.svg)](${renderLicenseLink(license)})`
